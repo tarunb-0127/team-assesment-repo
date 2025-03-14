@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {}
+    "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {
+    "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
+        "projectUniqueName": "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
         "projectName": "Calcualtor",
-        "projectPath": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
-        "packagesPath": "C:\\Users\\arul.vincent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\obj\\",
+        "projectPath": "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
+        "packagesPath": "C:\\Users\\tarun.balaji\\.nuget\\packages\\",
+        "outputPath": "D:\\team-assesment-repo\\Calcualtor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arul.vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tarun.balaji\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
