@@ -7,6 +7,7 @@
     Console.WriteLine("Number 3");
     int c = Convert.intToInt32(Console.ReadLine()); 
     add(a,b,c);
+    Console.WriteLine("Addition")
 }
  
 class Program
