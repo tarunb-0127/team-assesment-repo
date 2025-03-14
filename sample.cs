@@ -5,7 +5,7 @@ using System;
 namespace HelloWorldApp { 
     
     // Class declaration 
-    class Geeks { 
+    class Sample { 
         
         // Main Method 
         static void Main(string[] args) { 
