@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj": {}
+    "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {}
   },
   "projects": {
-    "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj": {
+    "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj",
+        "projectUniqueName": "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
         "projectName": "Calcualtor",
-        "projectPath": "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj",
+        "projectPath": "D:\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
         "packagesPath": "C:\\Users\\tarun.balaji\\.nuget\\packages\\",
-        "outputPath": "D:\\RIX_2024\\C#\\Calcualtor\\obj\\",
+        "outputPath": "D:\\team-assesment-repo\\Calcualtor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarun.balaji\\AppData\\Roaming\\NuGet\\NuGet.Config"
