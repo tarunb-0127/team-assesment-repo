@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tarun.balaji\\.nuget\\packages\\": {}
+    "C:\\Users\\arul.vincent\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj",
+      "projectUniqueName": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
       "projectName": "Calcualtor",
-      "projectPath": "D:\\RIX_2024\\C#\\Calcualtor\\Calcualtor.csproj",
-      "packagesPath": "C:\\Users\\tarun.balaji\\.nuget\\packages\\",
-      "outputPath": "D:\\RIX_2024\\C#\\Calcualtor\\obj\\",
+      "projectPath": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\Calcualtor.csproj",
+      "packagesPath": "C:\\Users\\arul.vincent\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arul.vincent\\team-assesment-repo\\Calcualtor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tarun.balaji\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\arul.vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
